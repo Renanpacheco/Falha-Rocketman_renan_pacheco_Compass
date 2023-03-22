@@ -1,0 +1,24 @@
+{
+  "name": "rocketman_renan_pacheco_compass",
+  "version": "1.0.0",
+  "description": "inicio do projeto com a main",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renanpacheco/Rocketman_renan_pacheco_Compass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renanpacheco/Rocketman_renan_pacheco_Compass/issues"
+  },
+  "homepage": "https://github.com/Renanpacheco/Rocketman_renan_pacheco_Compass#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
