@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "inicio do projeto com a main",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "mocha"
   },

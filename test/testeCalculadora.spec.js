@@ -1,4 +1,4 @@
-import assert from 'assert'
+
 import chai from 'chai';
 import Calculadora from '../src/Calculadora.js';
 

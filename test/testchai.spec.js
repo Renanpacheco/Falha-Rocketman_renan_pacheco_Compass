@@ -20,7 +20,7 @@ describe('primeiro teste', ()=>{
          expect(aux).to.be.a('string')
 
     })
-    it.only('verificar desigualdade', ()=>{
+    it('verificar desigualdade', ()=>{
         let aux=3;
         expect(aux).not.equals(2)
 
